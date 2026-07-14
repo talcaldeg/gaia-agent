@@ -1,0 +1,9 @@
+smolagents[litellm]
+tenacity
+requests
+python-dotenv
+ddgs
+markdownify
+pandas
+openpyxl
+pillow
